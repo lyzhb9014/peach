@@ -23,7 +23,7 @@
         <java.version>1.8</java.version>
         <lombok.version>1.16.20</lombok.version>
         <flyway.version>5.1.4</flyway.version>
-        <guava.version>25.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <dependencyManagement>
